@@ -1,4 +1,4 @@
-# Business Website Vite Frontend Design
+# Vite Frontend Design - Business Website
 
 ## License & Attribution
 
